@@ -25,7 +25,7 @@ spec:
         color: blue
     spec:
       containers:
-      - image: docker.io/vss902/citest:64dcd65dafbbb953549d2496d50c53cf98e8b2ab
+      - image: docker.io/vss902/citest:8b52e5b4070dd7033ead95020f2a3e034b472b6b
         name: blue
         ports:
           - containerPort: 80
